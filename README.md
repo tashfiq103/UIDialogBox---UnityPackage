@@ -65,8 +65,8 @@ There are only few difference between these 2 types, so I am going to show where
 ![](https://github.com/tashfiq103/UIDialogBox---UnityPackage/blob/master/Screenshot/Step%20-%206.png)
 ***
 2.	Now if you follow the previous step from “2-4” from creating “2 – Button Dialog Box”. You will find the output like this.
- 
-![](https://github.com/tashfiq103/UIDialogBox---UnityPackage
+
+![](https://github.com/tashfiq103/UIDialogBox---UnityPackage/blob/master/Screenshot/Step%20-%207.png)
 
 ***
 
