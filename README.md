@@ -9,8 +9,8 @@
 Just download the **UIDialogBox.unityPackage** from the following "Git", and import it to your "Unity Project".
 
 ***
-
-# 2 – Button
+# Configuring Dialog Box from Unity Editor
+## 2 – Button
 1.	Lets’ drag and drop our “**UIDialogBox**” prefab from our “**Project**” window to our “**Hierarchy -> Canvas**”. 
 
 ![](https://github.com/tashfiq103/UIDialogBox---UnityPackage/blob/master/Screenshot/Step%20-%201.png)
@@ -58,7 +58,7 @@ public class DialogBoxTest : MonoBehaviour {
 ***
 ***
 
-# 3 – Button 
+## 3 – Button 
 There are only few difference between these 2 types, so I am going to show where the difference is going to be.
 1.	Let’s create another preset dialog box with 3 – button.
 
@@ -70,6 +70,7 @@ There are only few difference between these 2 types, so I am going to show where
 
 ***
 
+# Configuring Dialog Box from Unity C# Script:
 •	Let’s modify our “DialogBoxTest” script to the following one that has given below.
 •	That’s it, just hit on the play button on the unity editor and you will see a “2 – Button” Dialog box ha just created in the scene. Now try to create a “3 – Button” dialog box.
 
