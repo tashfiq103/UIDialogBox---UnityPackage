@@ -56,7 +56,6 @@ public class DialogBoxTest : MonoBehaviour {
  
 ![](https://github.com/tashfiq103/UIDialogBox---UnityPackage/blob/master/Screenshot/Step%20-%205.png)
 ***
-***
 
 ## 3 – Button 
 There are only few difference between these 2 types, so I am going to show where the difference is going to be.
