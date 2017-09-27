@@ -123,12 +123,14 @@ public class DialogBoxTest : MonoBehaviour {
 ```
 ***
 
+# **Dialog Box Configuration: “HasDifferentScreenOrientation”**
 If your following scene allow different screen orientation (Portrait/Landscape) for “Android/iOS” device. Then it is highly recommended to enable this setting. But if your screen has only one screen orientation, then just keep it disabled. Also the following setting only available when your building for “Android/iOS”, so don’t worry about any types of build.
 ***
 ![](https://github.com/tashfiq103/UIDialogBox---UnityPackage/blob/master/Screenshot/Step%20-%208.png)
 
 ***
 
+# **Dialog Box Configuration: Theme**
 You can also change the dialog box background, button background and the font using the following section.
 ***
 ![](https://github.com/tashfiq103/UIDialogBox---UnityPackage/blob/master/Screenshot/Step%20-%209.png)
